@@ -22,7 +22,7 @@ account:
   message: "Welcome to Coffee QA App"
   details:
     name: "bob"
-    email: "cipher:1e0aefc91df12d347ac1114f965a533a8d2635e2d60b7ba1457f17fa7902e8dd"
+    email: "{cipher}1e0aefc91df12d347ac1114f965a533a8d2635e2d60b7ba1457f17fa7902e8dd"
   phone:
     - 2003040506
     - 0107080901
