@@ -2,20 +2,6 @@ spring:
   application:
     name: gatewaycoffee
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
-  info:
-    env:
-      enabled: true
-  endpoint:
-    health:
-      show-details: always
-    shutdown:
-      access: unrestricted
-
 eureka:
  instance:
    prefer-ip-address: true
